@@ -2,7 +2,7 @@
 
 ## ➢ ABSTRACT
 (Payment Gateway Integration) A website created where you can donate and contribute to the COVID-19 relief fund.
-
+c
 ## ➢ SOFTWARE REQUIREMENTS
 <ul type="arrow">
   <li> <b> Operating System : </b> Any version of Windows NT family (4.0 &above) </li>
@@ -20,3 +20,9 @@
         </p> 
   </li>
   </ul>
+  
+  ## ➢ WEBSITE LINK
+  
+  https://gini2001.000webhostapp.com/index.html
+
+
